@@ -1,0 +1,21 @@
+git commands
+
+-> git config --global user.email "your email"
+
+-> git config --global user.name "your name"
+
+-> git clone repourl 				---------- to clone project from github
+
+-> git status 						---------- find the status of files (modified, added..etc)
+
+-> git diff 						---------- to know the difference in the files 
+
+-> git add --a 						---------- to stage all the files
+
+-> git add filename 				---------- to stage single file
+
+-> git commit -m "your message" 	---------- to commit changes
+
+-> git pull 						---------- pull changes from repository
+
+-> git push 						---------- push changes to repository
